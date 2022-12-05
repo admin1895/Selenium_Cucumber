@@ -7,5 +7,5 @@ import org.junit.runner.RunWith;
 @RunWith(Cucumber.class)
 @CucumberOptions(features = "C:\\Intilij\\Selenium_Cucumber\\Features\\HRMlogo.feature",
                      glue = "stepDefination")
-public class TestRunner {
+public class testRun {
 }
